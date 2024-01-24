@@ -2,7 +2,7 @@
 no
 
 #### 🔗 My Youtube channel
-[![YouTube](./assets/youtube.pn)](https://www.youtube.com/@dszilagyi)
+[![YouTube](./assets/youtube.png)](https://www.youtube.com/@dszilagyi)
 
 #### 💻 Technologies that I use
 ![HTML5](./assets/html.svg) ![CSS3](./assets/css.svg) ![Bootstrap](./assets/bootstrap.svg) ![JavaScript](./assets/javascript.svg) ![TailwindCSS](./assets/php.png) 
