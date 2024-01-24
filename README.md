@@ -5,4 +5,4 @@ no
 [![YouTube](./assets/yt.png)](https://www.youtube.com/@dszilagyi)
 
 #### 💻 Technologies that I use
-![HTML5](./assets/html.png) ![CSS3](./assets/css3.png) ![Bootstrap](./assets/bootstrap.svg) ![JavaScript](./assets/js.png) ![TailwindCSS](./assets/php.png) 
+![HTML5](./assets/html.png) ![CSS3](./assets/css3.png) ![Bootstrap](./assets/bootstrap.svg) ![JavaScript](./assets/js.png) ![TailwindCSS](./assets/php8.png) 
