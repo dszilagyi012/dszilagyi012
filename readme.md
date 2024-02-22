@@ -5,4 +5,4 @@ Hi! My name is Dániel Szilágyi and I’m creator of [nemtom] youtube channel. 
 [![YouTube](./assets/tube.png)](https://www.youtube.com/@dszilagyi)
 
 #### 💻 Technologies that I use
-![HTML5](./assets/html.png) ![CSS3](./assets/css3.png) ![Bootstrap](./assets/bootstrap.png) ![JavaScript](./assets/js.png) ![TailwindCSS](./assets/php7.png) 
+![HTML5](./assets/html.png) ![CSS3](./assets/css3.png) ![Bootstrap](./assets/bootstrap.png) ![JavaScript](./assets/js.png) ![PHP](./assets/php7.png) 
